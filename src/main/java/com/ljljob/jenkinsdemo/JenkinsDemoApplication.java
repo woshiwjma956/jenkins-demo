@@ -15,6 +15,6 @@ public class JenkinsDemoApplication {
 
     @RequestMapping("/")
     public Object index() {
-        return "index";
+        return "index6666";
     }
 }
